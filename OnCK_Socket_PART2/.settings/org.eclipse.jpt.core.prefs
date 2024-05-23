@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.eclipse.jpt.core.platform=generic2_2
+org.eclipse.jpt.jpa.core.discoverAnnotatedClasses=false
+problem.PERSISTENCE_MULTIPLE_PERSISTENCE_UNITS=ignore
+problem.PERSISTENCE_UNIT_INVALID_CLASS=ignore
+problem.PERSISTENCE_UNIT_NONEXISTENT_MAPPING_FILE=error
+workspace_validation_preferences_overridden=true
